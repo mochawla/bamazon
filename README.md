@@ -19,3 +19,5 @@ For manager you can select from 4 options: View products for sale, View low inve
 To view products for sale simply select that option. To view low inventory simply select that option. To add to inventory give the product id and amount you want to add. To add a new product, enter required information about the product such as name, price, quantity, and category.
 
 How it runs: Clone this repository. Run NPM install. Open the command line and run node bamazon_customer.js, node bamazon_manager.js. MYSQL Workbench is required to use the database.
+
+There is a screenshot folder in this repository that shows you how everything works.
